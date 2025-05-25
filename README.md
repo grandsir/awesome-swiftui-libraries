@@ -111,6 +111,7 @@
 - [Camera-SwiftUI](https://github.com/rorodriguez116/Camera-SwiftUI) - A lightweight camera library for quick integration with SwiftUI - iOS/iPadOS only
 - [CameraView](https://github.com/brettfazio/CameraView) - SwiftUI View for live camera output
 - [SwiftUICam](https://github.com/pierreveron/SwiftUICam) - A Snapchat Style Camera View to use with a SwiftUI interface
+- [MijickCamera](https://github.com/Mijick/Camera) - Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
 
 ## Card
 [scroll to top](#readme)
@@ -141,6 +142,7 @@
 ## Clock
 [scroll to top](#readme)
 - [SwiftClockUI](https://github.com/renaudjenny/SwiftClockUI) - SwiftUI library to display a clock. You can move the arms to change the time, change the style of the clock and customise some configurations.
+- [SwiftClockKit](https://github.com/ibvildthings/SwiftClockKit) - SwiftClockKit lets you effortlessly add beautiful, customizable clock faces to your iOS apps with just a few lines of code.
 
 ## Collection
 [scroll to top](#readme)
@@ -172,6 +174,8 @@
 [scroll to top](#readme) 
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An extension to the standard SwiftUI library.
 - [ViewCondition](https://github.com/tokijh/ViewCondition) - Super sweet syntactic sugar for SwiftUI.View initializers.
+- [MijickTimer](https://github.com/Mijick/Timer) - Modern API for Timer
+- [SwiftSafeUI](https://github.com/BaherTamer/SwiftSafeUI) - Encapsulates your SwiftUI deprecation handling logic.
 
 ## Game
 [scroll to top](#readme)
@@ -189,6 +193,11 @@
 - [QGrid](https://github.com/Q-Mobile/QGrid) - 🎛 QGrid: The missing SwiftUI collection view.
 - [GridStack](https://github.com/pietropizzi/GridStack) - A flexible grid layout view for SwiftUI
 - [Micro](https://github.com/onmyway133/Micro) - Fast diffing and type safe SwiftUI style data source for UICollectionView
+- [Grid](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI
+- [MijickGridView](https://github.com/Mijick/GridView) - Easy Grids with SwiftUI
+- [SDFlowLayout](https://github.com/sanhee16/SDFlowLayout) - Flow Layout for iOS 14+ with SwiftUI  
+
+
 
 ## Image 
 [scroll to top](#readme) 
@@ -199,7 +208,8 @@
 - [NukeUI](https://github.com/kean/NukeUI) - Lazy image loading for SwiftUI
 - [SwURL](https://github.com/cmtrounce/SwURL) - Lightweight asynchronous image loading in SwiftUI. Fetch and display images from URLs.
 - [CachedAsyncImage](https://github.com/lorenzofiamingo/SwiftUI-CachedAsyncImage) - 🗃️ The simplest way to add cache to your AsyncImage.
-- [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer) - Image viewer built in SwiftUI for both local and remote images 
+- [swiftui-image-viewer](https://github.com/Jake-Short/swiftui-image-viewer) - Image viewer built in SwiftUI for both local and remote images
+- [CropImage](https://github.com/laosb/CropImage) - A pure SwiftUI view where user can move and resize an image to a pre-defined size.
 
 ## List
 [scroll to top](#readme) 
@@ -240,7 +250,8 @@
 - [NavigationStack](https://github.com/matteopuc/swiftui-navigation-stack) - An alternative SwiftUI NavigationView implementing classic stack-based navigation giving also some more control on animations and programmatic navigation.
 - [NavigationKit](https://github.com/rebeloper/NavigationKit) - SwiftUI navigation done right
 - [Router](https://github.com/1amageek/Router) - Router is a library that assists with SwiftUI view transitions.
-- [Helm](https://github.com/valentinradu/Helm) - A graph-based SwiftUI router 
+- [Helm](https://github.com/valentinradu/Helm) - A graph-based SwiftUI router
+- [MijickNavigattie](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI
 
 ## Pages
 [scroll to top](#readme) 
@@ -261,6 +272,7 @@
 ## Photo-Picker
 [scroll to top](#readme)
 - [PhotoLibraryPicker](https://github.com/moifort/swiftUI-photo-library-picker) - Photo Library Picker for SwiftUI
+- [MediaPicker](https://github.com/exyte/mediapicker) - Customizable media picker written with SwiftUI
 
 ## Picker
 [scroll to top](#readme)
@@ -328,6 +340,7 @@
 - [Swiftui sliders](https://github.com/spacenation/swiftui-sliders) - SwiftUI Sliders with custom styles
 - [SlidingRuler](https://github.com/Pyroh/SlidingRuler) - A sliding ruler control for SwiftUI
 - [Sliders SwiftUI](https://github.com/kieranb662/Sliders-SwiftUI) - Collection of unique fully customizable SwiftUI sliders, joysticks, trackpads and more
+- [SwiftUI Value Slider](https://github.com/sanhee16/SwiftUIValueSlider) - SwiftUI Sliders with current value of thumb
 
 ## Speech
 [scroll to top](#readme)
@@ -347,6 +360,7 @@
 
 ## TabBar-and-Tabs
 [scroll to top](#readme)
+- [AnimatedTabBar](https://github.com/exyte/AnimatedTabBar) - A tabbar with number of preset animations written in pure SwiftU
 - [SSCustomTabbar](https://github.com/SimformSolutionsPvtLtd/SSCustomTabbar) - Simple Animated tabbar with native control
 - [FloatingTabBar](https://github.com/10011co/FloatingTabBar) - Aesthetic floating tab bar
 - [StatefulTabView](https://github.com/NicholasBellucci/StatefulTabView) - A SwiftUI TabView that retains the state of each tab as well as some other goodies.
@@ -378,6 +392,7 @@
 - [SSToastMessage](https://github.com/SimformSolutionsPvtLtd/SSToastMessage) - SSToastMessage is written purely in SwiftUI. It will add toast, alert, and floating message view over the top of any view. It is intended to be simple, lightweight, and easy to use. It will be a popup with a single line of code.
 - [SimpleToast](https://github.com/sanzaru/SimpleToast) - SimpleToast is a simple, lightweight and easy to use library to show toasts / pop-ups inside your iOS application in SwiftUI
 - [SwiftUI-Tooltip](https://github.com/quassum/SwiftUI-Tooltip) - Easy Tooltip for your SwiftUI Project
+- [MijickPopups](https://github.com/Mijick/Popups) - Popups, popovers, sheets, alerts, toasts, banners, (...) presentation made simple. Written with and for SwiftUI
 
 ## Unit-testing
 [scroll to top](#readme) 
